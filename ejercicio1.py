@@ -48,7 +48,7 @@ print(nuevo2)
 print("\n"*4)
 columna = df2[df2["Nombre"]!="NA"]
 
-#2:25
+#2:30
 
 
 
